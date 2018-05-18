@@ -32,7 +32,6 @@
 		39D927702001411700857EB9 /* Coordinate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Coordinate.m; path = AMap3D/Coordinate.m; sourceTree = "<group>"; };
 		39D927712001411700857EB9 /* RCTConvert+AMap3D.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "RCTConvert+AMap3D.m"; path = "AMap3D/RCTConvert+AMap3D.m"; sourceTree = "<group>"; };
 		39D927722001411700857EB9 /* maps */ = {isa = PBXFileReference; lastKnownFileType = folder; name = maps; path = AMap3D/maps; sourceTree = "<group>"; };
-		39D927732001411700857EB9 /* navigation */ = {isa = PBXFileReference; lastKnownFileType = folder; name = navigation; path = AMap3D/navigation; sourceTree = "<group>"; };
 		39D927742001411700857EB9 /* AMapUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AMapUtils.m; path = AMap3D/AMapUtils.m; sourceTree = "<group>"; };
 		39D927752001411800857EB9 /* LocationStyle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LocationStyle.h; path = AMap3D/LocationStyle.h; sourceTree = "<group>"; };
 		39D927762001411800857EB9 /* LocationStyle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LocationStyle.m; path = AMap3D/LocationStyle.m; sourceTree = "<group>"; };
@@ -68,7 +67,6 @@
 				39D927752001411800857EB9 /* LocationStyle.h */,
 				39D927762001411800857EB9 /* LocationStyle.m */,
 				39D927722001411700857EB9 /* maps */,
-				39D927732001411700857EB9 /* navigation */,
 				39D927712001411700857EB9 /* RCTConvert+AMap3D.m */,
 				134814211AA4EA7D00B7C361 /* Products */,
 			);
