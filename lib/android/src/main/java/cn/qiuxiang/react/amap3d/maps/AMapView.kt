@@ -19,7 +19,7 @@ class AMapView(context: Context) : TextureMapView(context) {
     private val lines = HashMap<String, AMapPolyline>()
     private val locationStyle by lazy {
         val locationStyle = MyLocationStyle()
-        locationStyle.myLocationType(MyLocationStyle.LOCATION_TYPE_LOCATE)
+        locationStyle.myLocationType(MyLocationStyle.LOCATION_TYPE_FOLLOW_NO_CENTER)
         locationStyle
     }
 

@@ -9,3 +9,4 @@ Pods/
 *.xcworkspace
 local.properties
 Podfile.lock
+.DS_Store
